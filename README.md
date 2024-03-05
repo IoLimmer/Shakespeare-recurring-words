@@ -1,2 +1,2 @@
-# shakespeare-recurring-words
- For Coleman, find frequently occuring, unique words in the works of Shakespeare
+# Shakespeare-recurring-words
+ For Coleman, find most common words in Shakespeare's works
