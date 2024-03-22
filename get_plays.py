@@ -1,10 +1,11 @@
-import requests, os, json, re
+import requests, os, json, utils, re
 
 
 
 
 
-curr_dir = os.path.dirname(os.path.abspath(__file__))
+# curr_dir = os.path.dirname(os.path.abspath(__file__))
+curr_dir = utils.DIRECTORY
 
 
 requests.packages.urllib3.disable_warnings()
